@@ -132,7 +132,7 @@ watchEffect(() => {
 }
 .header {
   position: relative;
-  height: 60vh;
+  height: 30vh;
   background:
     linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1)),
     url('@/assets/sky.webp') no-repeat center center/cover;

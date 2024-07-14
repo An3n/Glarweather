@@ -15,6 +15,7 @@
       <div v-if="error" class="alert alert-danger mt-3">{{ error }}</div>
       <p>Already have an account? <router-link to="/">Login</router-link></p>
     </div>
+    <div style="height: 10vh;"></div>
   </template>
   
   <script setup>
